@@ -2,7 +2,7 @@ import React from 'react'
 
 class CommentBox extends React.Component {
   constructor(props) {
-    supre(props);
+    super(props);
   }
 
   render() {
